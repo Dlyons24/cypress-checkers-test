@@ -11,5 +11,10 @@ describe('Checkers Game Test', () => {
       
       cy.get('img[name="space02"]').click(); 
      
+      cy.get('img[name="space04"]').click();
+    
+    
+    
     });
+
   });
